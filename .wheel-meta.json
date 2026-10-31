@@ -1,0 +1,22 @@
+{
+  "wheel_id": 578,
+  "structure": "umbrella",
+  "slug": "toowoombafencing-153",
+  "project": "fencing-toowoomba-e403fd8cfa6c2d86a41946d075a0a993a90f8939",
+  "parent_t1_ref": "toowoombafencing-005",
+  "node_role": "buffer",
+  "money_target": "toowoombafencing.au",
+  "primary_kw": "fencing toowoomba",
+  "intended_url": "https://sites-e470-2.web.app/fencing-toowoomba-e403fd8cfa6c2d86a41946d075a0a993a90f8939/",
+  "tier": "T2",
+  "writeback_nonce": "94508a9b2f8ef286",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/toowoombafencing-005/",
+      "anchor": "Fencing Toowoomba: For Practical Fence Decisions",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
